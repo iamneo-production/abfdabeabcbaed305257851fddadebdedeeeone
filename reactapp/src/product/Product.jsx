@@ -35,7 +35,7 @@ const productsData = [
     name: "Product 5",
     description: "Aenean lacinia bibendum nulla sed consectetur.",
     price: 9.99,
-    image: require(),
+    image: require("./product1.jpg"),
   },
 ];
 
